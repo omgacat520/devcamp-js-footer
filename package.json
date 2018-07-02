@@ -21,5 +21,6 @@
   "homepage": "https://github.com/omgacat520/devcamp-js-footer#readme",
   "dependencies": {
     "moment": "^2.22.2"
-  }
+  },
+  "devDependencies": {}
 }
