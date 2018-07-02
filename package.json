@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "This package/module allows for dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omgacat520/devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Jake Ildefonso <omgacat520@gmail.com> (http://www.stoplookingmeup.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omgacat520/devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/omgacat520/devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
